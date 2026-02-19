@@ -11,7 +11,7 @@ The primary objective is to **identify high-risk patterns and temporal trends** 
 ---
 
 ## 📊 Dashboard Components & Insights
-
+![Dashboard Overview](Dashboard1(1).png)
 ### 🔹 Sheet 1 – Casualties by Road Type & Day
 **Visualization:** Treemap  
 
